@@ -1,7 +1,7 @@
 # docaiproc
 docaiproc : Document AI Processor | Synchronous API | Python | Form Parser Processor |  jq | documentai | 
 
-## Objective
+## Objectives
 - Create & test Document AI processor using console.
 - Test Document AI processors using command line.
 - Test Document AI synchronous API calls using Python.
