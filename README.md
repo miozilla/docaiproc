@@ -1,5 +1,5 @@
-# docaiproc
-docaiproc : Document AI Processor | Synchronous API | Python | Form Parser Processor |  jq | documentai | 
+# docaiproc 📰🔌📌
+docaiproc : Document AI Processor | Synchronous API, Python, Form Parser Processor, jq, documentai | 
 
 ## Objectives
 - Create & test Document AI processor using console.
