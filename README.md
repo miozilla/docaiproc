@@ -10,36 +10,36 @@ docaiproc : Document AI Processor | Synchronous API, Python, Form Parser Process
 
 ## Create & Test Document AI Processor 
 
-![dacaiproc001.png](./media/dacaiproc001.png)
+![docaiproc001.png](./media/docaiproc001.png)
 
-![dacaiproc002.png](./media/dacaiproc002.png)
+![docaiproc002.png](./media/docaiproc002.png)
 
-![dacaiproc003.png](./media/dacaiproc003.png)
+![docaiproc003.png](./media/docaiproc003.png)
 
-![dacaiproc004.png](./media/dacaiproc004.png)
+![docaiproc004.png](./media/docaiproc004.png)
 
-![dacaiproc005.png](./media/dacaiproc005.png)
+![docaiproc005.png](./media/docaiproc005.png)
 
-![dacaiproc006.png](./media/dacaiproc006.png)
+![docaiproc006.png](./media/docaiproc006.png)
 
-![dacaiproc007.png](./media/dacaiproc007.png)
+![docaiproc007.png](./media/docaiproc007.png)
 
-![dacaiproc008.png](./media/dacaiproc008.png)
+![docaiproc008.png](./media/docaiproc008.png)
 
-![dacaiproc009.png](./media/dacaiproc009.png)
+![docaiproc009.png](./media/docaiproc009.png)
 
-![dacaiproc010.png](./media/dacaiproc010.png)
+![docaiproc010.png](./media/docaiproc010.png)
 
-![dacaiproc011.png](./media/dacaiproc011.png)
+![docaiproc011.png](./media/docaiproc011.png)
 
-![dacaiproc012.png](./media/dacaiproc012.png)
+![docaiproc012.png](./media/docaiproc012.png)
 
-![dacaiproc013.png](./media/dacaiproc013.png)
+![docaiproc013.png](./media/docaiproc013.png)
 
-![dacaiproc014.png](./media/dacaiproc014.png)
+![docaiproc014.png](./media/docaiproc014.png)
 
-![dacaiproc015.png](./media/dacaiproc015.png)
+![docaiproc015.png](./media/docaiproc015.png)
 
-![dacaiproc016.png](./media/dacaiproc016.png)
+![docaiproc016.png](./media/docaiproc016.png)
 
-![dacaiproc017.png](./media/dacaiproc017.png)
+![docaiproc017.png](./media/docaiproc017.png)
